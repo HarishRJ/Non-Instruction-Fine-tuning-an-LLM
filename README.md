@@ -1,0 +1,2 @@
+Overview: Fine-Tuning TinyLlama for Pharmaceutical Domain Adaptation
+This project demonstrates a complete pipeline for adapting TinyLlama (a compact 1.1B-parameter LLM) to the pharmaceutical domain using causal language modeling. We focus on non-instructional fine-tuning to enhance the model's ability to generate coherent, domain-specific text—such as drug interactions, clinical trial summaries, and medical abstracts—without requiring labeled Q&A pairs.
